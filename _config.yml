@@ -2,7 +2,7 @@ title: Tapas Sharma
 description: 
 google_analytics: UA-72723953-1
 show_downloads: true
-theme: jekyll-theme-tactile
+theme: jekyll-theme-modernist
 
 gems:
   - jekyll-mentions
